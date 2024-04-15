@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: #f2f2f2;
+  /* font-optical-sizing: auto; */
+  /* font-style: normal; */
+}
+h1 {
+  font-size: 20px;
+  color: #1f314f;
+  margin-bottom: 20px;
+}
+.img {
+  width: 250px;
+  height: auto;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.container {
+  padding: 20px;
+  width: 270px;
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  border-radius: 15px;
+  margin: 50px auto 30px auto;
+}
+p {
+  color: #7d889e;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
